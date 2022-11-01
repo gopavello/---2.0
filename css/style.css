@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about {
   padding: 50px 70px;
-  background: #20B2AA;
+  background: #008B8B;
 }
 .about__text {
   font-style: italic;
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer {
-  background: #20B2AA;
+  background: #008B8B;
   padding: 30px 0;
 }
 .footer__text {
